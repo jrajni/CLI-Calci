@@ -1,0 +1,21 @@
+{
+  "name": "yargs",
+  "version": "1.0.0",
+  "description": "cli calci",
+  "main": "server.js",
+  "dependencies": {
+    "yargs": "^12.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "yargs",
+    "cli",
+    "calci"
+  ],
+  "author": "arrjay",
+  "license": "ISC"
+}
